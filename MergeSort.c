@@ -53,7 +53,7 @@ void merge(int arr[], int start, int mid, int end)
 // Function to divide the array into two halves
 void divide(int arr[], int start, int end)
 {
-    if (start >= end)
+    if (start >= end)    
     {
         return;
     }
@@ -65,7 +65,7 @@ void divide(int arr[], int start, int end)
 
 int main()
 {
-    int array[100] = {1, 78, 3, 5, 6, 7, 8, 9, 2}; // Initialize the array
+    int array[100] = {1, 78, 3, 5, 6, 7, 8, 9, 2,7}; // Initialize the array
     int total_size = sizeof(array) / sizeof(array[0]);
     int initialized_elements = 0;
 
