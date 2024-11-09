@@ -1,3 +1,4 @@
+
 # Data Structures Using C
 
 This repository provides a comprehensive overview of fundamental data structures and algorithms, essential for building efficient and optimized software solutions. Each topic includes explanations, code samples, and practical implementations.
@@ -89,6 +90,10 @@ For questions, improvements, or collaboration, reach out:
 - [LinkedIn](https://linkedin.com/in/syedtasavour)
 - [GitHub](https://github.com/syedtasavour)
 - [Portfolio](https://syedtasavour.me)
+
+---
+
+**Note:** This repository has been structured to align with the academic requirements of my coursework in **Data Structures Using C**. Topics covered reflect my syllabus content and are tailored for educational purposes.
 
 ---
 
